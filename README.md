@@ -15,35 +15,19 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-- C++
-- Python
-- JavaScript
+- C++, Python,JavaScript
 
 ### 🌐 Backend Development
-- Node.js
-- Express.js
-- Flask
-- MongoDB
-- SQLite
+- Node.js,Express.js,Flask ,MongoDB,SQLite,SQL
 
 ### 🎨 Frontend
-- HTML
-- CSS
-- JavaScript
-- EJS
+- HTML,CSS,JavaScript, EJS
 
 ### ⚙️ Tools & Platforms
-- Git & GitHub
-- MongoDB Atlas
-- Render & Railway(Deployment)
-- VS Code
-
----
+- Git & GitHub ,MongoDB Atlas,Render & Railway(Deployment),VS Code
 
 # 📌 Projects
-
 ---
-
 ## 🏡 ApnaStay (Airbnb-Inspired Web App)
 
 A full-stack property listing platform.
