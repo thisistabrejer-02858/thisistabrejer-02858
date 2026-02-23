@@ -5,11 +5,9 @@
 
 ## 🚀 About Me
 - 🎓 3rd Year B.Tech (ECE), Jamia Millia Islamia
-- 💻 Backend-focused developer
+- 💻 Backend-focused Full Stack developer
 - 🔭 Currently building full-stack scalable web applications
 - 🌱 Learning Advanced Backend Architecture & Generative AI
-- 💡 Interested in System Design & AI Integration
-
 ---
 
 ## 🛠️ Tech Stack
@@ -41,7 +39,7 @@ A full-stack property listing platform.
 - MVC Model
 
 ### 🔹 Tech Used:
-Node.js, Express.js, MongoDB, EJS
+Node.js, Express.js, MongoDB, EJS, HTML, CSS, Javascript
 
 ---
 
