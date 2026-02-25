@@ -82,4 +82,4 @@ JavaScript, HTML, CSS
 
 ## 📫 Connect With Me
 - 📧 Email: thisistabrej.er@gmail.com
-- 💼 LinkedIn: [your-linkedin-link](https://www.linkedin.com/in/tabrej-tabarak02858/)
+- 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/tabrej-tabarak02858/)
