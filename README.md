@@ -9,8 +9,6 @@
   <a href="leetcode.com/u/tabrej-tabarak/">LeetCode</a>
 </p>
 
----
-
 ## 💡 Summary
 
 Backend-focused Software Developer with experience in full-stack development, REST API design, authentication & authorization, and database management.
@@ -22,27 +20,16 @@ Actively improving problem-solving skills through Data Structures and Algorithms
 ## 🚀 Tech Stack
 
 ### 💻 Languages
-
 C++, Python, JavaScript
-
 ### 🌐 Backend
-
 Node.js, Express.js, REST APIs
-
 ### 🎨 Frontend
-
 React.js, HTML, CSS, Bootstrap
-
 ### 🗄️ Databases
-
 MongoDB, MySQL
-
 ### 🔐 Authentication
-
 JWT, Passport.js (Local + Google OAuth)
-
 ### ⚙️ Tools
-
 Git, GitHub, Postman, Cloudinary
 
 ## 📌 Projects
@@ -101,13 +88,6 @@ SPI: 8.37
 
 **Intermediate (CBSE)** — 82.6%
 **High School (CBSE)** — 90.8%
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thisistabrejer-02858&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisistabrejer-02858&layout=compact&theme=radical" />
-</p>
 
 ## 📫 Contact
 
